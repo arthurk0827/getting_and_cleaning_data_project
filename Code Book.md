@@ -1,6 +1,9 @@
 Course Project
+==============
+
 
 data and description details find here:
+=======================================
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
